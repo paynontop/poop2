@@ -113,7 +113,7 @@ def create_bot(token):
             return
         if not NUMBER_REGEX.search(message.content):
             return
-        if "Mustapha Ahmady got raped up by daddy Vanai! LOL hahahha stapha is a good bitch and he tried it! LOL!" in message.content or "NICE TRY FATSO" in message.content:
+        if "Mustapha Ahmady got raped up by daddy Vanai! LOL hahahha stapha is a good bitch and he tried it! LOL!" in message.content or "NICE TRY FATSO" in message.content or "AWW! did Mustapha Ahmady waste his time to stop vanais countdown??? GOOD SPLENDID BOOTY BITCH.." in message.content:
             return
 
         # DM or Group — reply to anyone
